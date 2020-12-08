@@ -26,11 +26,11 @@ And then, it will do the same with BID price. If there is a BID price, it will s
 
 To use AlgorithmicTrading, you can type on a Python terminal:
 
-> main.py ticker user password account
+		$ main.py ticker user password account
 
 For example, suppose you want to apply the strategy implemented in the software to a financial instrument whose ticker is DOEne21. And your Remarkets' credential are testUser, testPassword and testAccount. Then you should type:
 
-> main.py DOEne21 testUser testPassword testAccount
+		$ main.py DOEne21 testUser testPassword testAccount
 
 To run the unit tests, you should also complete your credentials in SetUp method.
 
