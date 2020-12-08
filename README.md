@@ -1,6 +1,6 @@
 # AlgorithmicTrading-App
 
-An application that applies stocks trading strategies in a test environment.
+An application that executes stocks trading strategies in a test environment.
 
 ## Table of contents
 
