@@ -34,7 +34,7 @@ For example, suppose you want to apply the strategy implemented in the software 
 
 To run the unit tests, you should also complete your credentials in SetUp method.
 
-**Note**: Remarket environment may not be available or may be under maintenance. That's why sometimes the application may not be working. 
+**Note**: Remarket environment sometimes may not be available or may be under maintenance. 
 
 ### Disclaimer
 
