@@ -1,7 +1,7 @@
 import unittest
 import pyRofex
 from parameterized import parameterized
-from main import Market, Symbol, BuyingStrategy, Price
+from classes import Market, Symbol, BuyingStrategy, Price
 
 
 class UnitTests(unittest.TestCase):
